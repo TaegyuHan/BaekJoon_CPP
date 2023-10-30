@@ -55,11 +55,11 @@ build CMakeFiles/BaekJoon_CPP.dir/library.cpp.obj: CXX_COMPILER__BaekJoon_CPP_un
   OBJECT_DIR = CMakeFiles\BaekJoon_CPP.dir
   OBJECT_FILE_DIR = CMakeFiles\BaekJoon_CPP.dir
 
-build CMakeFiles/BaekJoon_CPP.dir/P10813.cpp.obj: CXX_COMPILER__BaekJoon_CPP_unscanned_Debug C$:/Users/gksxo/Desktop/project/BaekJoon_CPP/P10813.cpp || cmake_object_order_depends_target_BaekJoon_CPP
-  DEP_FILE = CMakeFiles\BaekJoon_CPP.dir\P10813.cpp.obj.d
+build CMakeFiles/BaekJoon_CPP.dir/implementation/10813/P10813.cpp.obj: CXX_COMPILER__BaekJoon_CPP_unscanned_Debug C$:/Users/gksxo/Desktop/project/BaekJoon_CPP/implementation/10813/P10813.cpp || cmake_object_order_depends_target_BaekJoon_CPP
+  DEP_FILE = CMakeFiles\BaekJoon_CPP.dir\implementation\10813\P10813.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\BaekJoon_CPP.dir
-  OBJECT_FILE_DIR = CMakeFiles\BaekJoon_CPP.dir
+  OBJECT_FILE_DIR = CMakeFiles\BaekJoon_CPP.dir\implementation\10813
 
 
 # =============================================================================
@@ -69,7 +69,7 @@ build CMakeFiles/BaekJoon_CPP.dir/P10813.cpp.obj: CXX_COMPILER__BaekJoon_CPP_uns
 #############################################
 # Link the static library libBaekJoon_CPP.a
 
-build libBaekJoon_CPP.a: CXX_STATIC_LIBRARY_LINKER__BaekJoon_CPP_Debug CMakeFiles/BaekJoon_CPP.dir/library.cpp.obj CMakeFiles/BaekJoon_CPP.dir/P10813.cpp.obj
+build libBaekJoon_CPP.a: CXX_STATIC_LIBRARY_LINKER__BaekJoon_CPP_Debug CMakeFiles/BaekJoon_CPP.dir/library.cpp.obj CMakeFiles/BaekJoon_CPP.dir/implementation/10813/P10813.cpp.obj
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = CMakeFiles\BaekJoon_CPP.dir
   POST_BUILD = cd .
