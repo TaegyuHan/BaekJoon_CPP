@@ -1,6 +1,6 @@
-#include "stack/17608/P17608.cpp"
+#include "stack/28278/P28278.cpp"
 
 int main() {
-    P17608::run();
+    P28278::run();
     return 0;
 }
