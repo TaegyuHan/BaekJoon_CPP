@@ -1,6 +1,6 @@
-#include "string/9093/P9093.cpp"
+#include "string/11655/P11655.cpp"
 
 int main() {
-    P9093::run();
+    P11655::run();
     return 0;
 }
