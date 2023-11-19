@@ -1,6 +1,6 @@
-#include "string/11816/P11816.cpp"
+#include "implementation/10811/P10811.cpp"
 
 int main() {
-    P11816::run();
+    P10811::run();
     return 0;
 }
