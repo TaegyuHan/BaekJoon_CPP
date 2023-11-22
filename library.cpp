@@ -1,6 +1,6 @@
-#include "implementation/25305/P25305.cpp"
+#include "bruteforce/1075/P1075.cpp"
 
 int main() {
-    P25305::run();
+    P1075::run();
     return 0;
 }
