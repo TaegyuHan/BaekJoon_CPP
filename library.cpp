@@ -1,6 +1,6 @@
-#include "implementation/1159/P1159.cpp"
+#include "implementation/1173/P1173.cpp"
 
 int main() {
-    P1159::run();
+    P1173::run();
     return 0;
 }
