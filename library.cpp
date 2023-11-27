@@ -1,6 +1,6 @@
-#include "implementation/1225/P1225.cpp"
+#include "implementation/1233/P1233.cpp"
 
 int main() {
-    P1225::run();
+    P1233::run();
     return 0;
 }
