@@ -1,6 +1,6 @@
-#include "implementation/30087/P30087.cpp"
+#include "implementation/1362/P1362.cpp"
 
 int main() {
-    P30087::run();
+    P1362::run();
     return 0;
 }
